@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:visited{ color : #FFFFFF; text-decoration : none; }
+ .shbox_msg1 { background-color : #000000; border-bottom-color : #00FFFF; border-bottom-style : solid; border-bottom-width : 1; color : #FFFFFF; font-size : xx-small; }
+ sixTurquise.css a:link{ color : #FFFFFF; text-decoration : none; }
+ .shboxmaintab { background-color : #000000; color : #FFFFFF; font-size : 10px; }
+ a:hover{ color : #00FFFF; text-decoration : underline; }
+ .shbox_msg2 { background-color : #000000; border-bottom-color : #00FFFF; border-bottom-style : solid; border-bottom-width : 1; color : #FFFFFF; font-size : xx-small; }
+ .chboxinput { background : #000000; border : 1 solid #00FFFF; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbody{ background-color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-arrow-color: #00FFFF; scrollbar-base-color: #000000; scrollbar-dark-shadow-color: #ffffff; scrollbar-track-color: #000000; scrollbar-face-color: #000000; scrollbar-shadow-color: #00FFFF; scrollbar-highlight-color: #00FFFF; scrollbar-3d-light-color: #00FFFF; }
+ a:active{ color : #00FFFF; text-decoration : none; }
+ .chboxbutton { background : #000000; border : 1 solid #00FFFF; color : #00FFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }

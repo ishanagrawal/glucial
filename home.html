@@ -1,0 +1,47 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Glucial</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="views/css/default.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" language="javascript">
+	function loadSlideShow(){
+		document.getElementById('__ss_8220805').style.display="none"
+		document.getElementById('CoachingSlide').style.display="none";
+		document.getElementById('aboutUsSlide').style.display="none";
+	}
+	function onAboutUsClicked() {
+		document.getElementById('__ss_8220805').style.display="none";
+		document.getElementById('CoachingSlide').style.display="none";
+		document.getElementById('aboutUsSlide').style.display="visible";
+	}
+	function onCoachingClicked() {
+		document.getElementById('__ss_8220805').style.display="none";
+		document.getElementById('CoachingSlide').style.display="visible";
+		document.getElementById('aboutUsSlide').style.display="none";
+	}
+	
+</script>
+</head>
+<body onload="javascript:loadSlideShow();">
+	<div class="header">
+    	<div class="logo">glucial</div>
+        <div class="menu"><a href="#" class="xtrsmallbutton"><p>register</p></a><a href="#" class="xtrsmallbutton"><p>login</p></a></div>
+    </div>
+    <div class="insideBody">
+    	<div id="slideshow">
+<iframe display:"none" id="__ss_8220805" src="http://www.slideshare.net/slideshow/embed_code/8220805?rel=0" width="490" height="390" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+            <div id="CoachingSlide" display:"none" width="490" height="390"><img src = "apps/images/coaching.jpg" /></div>
+        	<div id="aboutUsSlide" display:"none" width="490" height="390"><img src="apps/images/aboutus.jpg"/></div>
+        </div>
+        <div id="sidebar">
+		<div class="bigbutton" id="GetStartedButton" href="javascript:void(0)" onclick="window.location.href='getstarted.php'"><img /><h1>Get Started</h1></div>
+		<div class="bigbutton" id="CoachingButton" onclick="javascript:onCoachingClicked()";><img/><h1>Coaching</h1></div>
+		<div class="bigbutton" id="AboutUsButton" onclick="javascript:onAboutUsClicked();"><img  /><h1>About Us</h1></div>
+        </div>
+    </div>
+    <div class="footer"><p>&copy; Glucial Inc. All rights reserved.<p> <a href="#">  Privacy Policy </a> <a href="#"> Terms of Use</a></div>
+</body>
+</html>

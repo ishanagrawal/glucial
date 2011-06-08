@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.com */
+ .chboxbutton { background : #006699; border : 1 solid #000000; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .shbox_msg1 { background-color : #D1D7DC; border-bottom-color : #006699; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #006699; border-left-style : solid; border-left-width : 1px; border-right-color : #006699; border-right-style : solid; border-right-width : 1px; border-top-color : #006699; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+  a:link{ color : #006699; text-decoration : none; }
+ .chboxinput { background : #D1D7DC; border : 1 solid #006699; color : #000009; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ a:hover{ color : #FF9900; text-decoration : underline; }
+ a:active{ color : #006699; text-decoration : none; }
+ a:visited{ color : #006699; text-decoration : none; }
+ .shbox_msg2 { background-color : #D1D7DC; border-bottom-color : #006699; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #006699; border-left-style : solid; border-left-width : 1px; border-right-color : #006699; border-right-style : solid; border-right-width : 1px; border-top-color : #006699; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ .chboxbody{ background-color: #E5E5E5; scrollbar-face-color: #DEE3E7; scrollbar-highlight-color: #FFFFFF; scrollbar-shadow-color: #DEE3E7; scrollbar-3dlight-color: #D1D7DC; scrollbar-arrow-color: #006699; scrollbar-track-color: #EFEFEF; scrollbar-darkshadow-color: #98AAB1; }
+ .shboxmaintab { background-color : #EFEFEF; border-bottom-color : 98AAB1; border-bottom-style : solid; border-bottom-width : 1; border-left-color : 98AAB1; border-left-style : solid; border-left-width : 1px; border-right-color : 98AAB1; border-right-style : solid; border-right-width : 1px; border-top-color : 98AAB1; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }

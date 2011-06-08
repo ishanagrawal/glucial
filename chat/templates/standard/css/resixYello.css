@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:visited{ color : black; text-decoration : none; }
+ .chboxinput { background : white; border : 1 solid #FFFF00; color : black; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ a:active{ color : #FFFF00; text-decoration : none; }
+ .shbox_msg1 { background-color : white; border-bottom-color : #FFFF00; border-bottom-style : solid; border-bottom-width : 1; color : black; font-size : xx-small; }
+ a:hover{ color : #FFFF00; text-decoration : underline; }
+ .chboxbutton { background : white; border : 1 solid #FFFF00; color : #FFFF00; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .chboxbody{ background-color : white; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-arrow-color: #FFFF00; scrollbar-base-color: white; scrollbar-dark-shadow-color: #ffffff; scrollbar-track-color: white; scrollbar-face-color: white; scrollbar-shadow-color: #FFFF00; scrollbar-highlight-color: #FFFF00; scrollbar-3d-light-color: #FFFF00; }
+ .shbox_msg2 { background-color : white; border-bottom-color : #FFFF00; border-bottom-style : solid; border-bottom-width : 1; color : black; font-size : xx-small; }
+ .shboxmaintab { background-color : white; color : black; font-size : 10px; }
+ sixYellow.css a:link{ color : black; text-decoration : none; }

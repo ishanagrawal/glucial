@@ -1,0 +1,60 @@
+<html>
+    <head>
+      <title>Login</title>
+	<script type="text/javascript" lang="javascript" 
+	   src="http://cdn.gigya.com/JS/socialize.js?apikey=2_Wj_OfPXRfKyWZM7quHHtfN8bTjZgGvrxIh6cRrnnwK9WLa_j27FeSm1Yl-DkQiXF">
+	</script>
+	<script type="text/javascript">
+	   var conf = { APIKey: '2_Wj_OfPXRfKyWZM7quHHtfN8bTjZgGvrxIh6cRrnnwK9WLa_j27FeSm1Yl-DkQiXF'};
+// Changing the default look and behavior of the Plugin using the 'params' object:
+var params =
+{
+    showTermsLink:false, // 'terms' link is hidden
+    headerText:"Please Login using one of the following providers:", // adding header text
+    height:60, // changing default Plugin size
+    width:220,  // changing default Plugin size
+    cid:'',       
+    
+    containerID:"loginDiv", // The Plugin will embed itself inside the "loginDiv" DIV (will not be a popup) 
+    
+    // Changes to the default design of the Plugin's design
+    //     Background color is changed to purple, text color to gray and button size is set to 40 pixels:    
+    UIConfig:'<config><body><texts color="#DFDFDF"></texts><controls><snbuttons buttonsize="40"></snbuttons></controls><background background-color="#51286D"></background></body></config>',
+
+    // Change the buttons design style to the 'fullLogo' style:
+    buttonsStyle:'fullLogo',
+    
+    // After successful login - the user will be redirected to "www.MySite.com/welcome.html" :   
+    redirectURL: "http://localhost/glucial/login.php"
+  
+}	   
+/*
+function printResponse(response) {  
+    if ( response.errorCode == 0 ) {             
+        var user = response.user;
+        var msg = 'User '+user.nickname + ' is ' +user.age + ' years old';
+        alert(msg);
+    }
+    else {
+        alert('Error: ' + response.errorMessage);
+    }  
+}
+*/
+	</script>
+    </head>
+    <body>
+<br />
+	<p>Please sign in using one of the following providers:</p>
+	<div id="loginDiv"></div>
+	<script type="text/javascript">
+		gigya.services.socialize.showLoginUI(conf, {containerID: "loginDiv", cid:'', width:220, height:60,
+				redirectURL: "http://localhost/glucial/login.php",
+				showTermsLink:false, hideGigyaLink:true // remove 'Terms' and 'Gigya' links
+				});
+		//gigya.services.socialize.addConnection(conf,{callback:printResponse, provider:'facebook'}); 		
+	</script>
+	</body>
+ </html>
+
+ 
+ 

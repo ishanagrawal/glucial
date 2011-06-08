@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .shboxmaintab { background-color : #F0F0F0; border-bottom-color : #F8F4F8; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #F8F4F8; border-left-style : solid; border-left-width : 1px; border-right-color : #F8F4F8; border-right-style : solid; border-right-width : 1px; border-top-color : #F8F4F8; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ .shbox_msg1 { background-color : #E0E0E0; border-bottom-color : #D0D8D8; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #D0D8D8; border-left-style : solid; border-left-width : 1px; border-right-color : #D0D8D8; border-right-style : solid; border-right-width : 1px; border-top-color : #D0D8D8; border-top-style : solid; border-top-width : 1px; color : #000000; font-size : xx-small; }
+ a:active{ color : #003399; text-decoration : none; }
+ .chboxbutton { background-color : #EFEFEF; color : #000000; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight : bold; }
+ .chboxbody{ background-color: #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-face-color: #DEE3E7; scrollbar-highlight-color: #FFFFFF; scrollbar-shadow-color: #DEE3E7; scrollbar-3dlight-color: #D1D7DC; scrollbar-arrow-color: #006699; scrollbar-track-color: #EFEFEF; scrollbar-darkshadow-color: #98AAB1; }
+  a:link{ color : #003399; text-decoration : none; }
+ .shbox_msg2 { background-color : #F0F0F0; border-bottom-color : #F8F4F8; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #F8F4F8; border-left-style : solid; border-left-width : 1px; border-right-color : #F8F4F8; border-right-style : solid; border-right-width : 1px; border-top-color : #F8F4F8; border-top-style : solid; border-top-width : 1px; color : #000000; font-size : xx-small; }
+ a:hover{ color : #003399; text-decoration : underline; }
+ a:visited{ color : #003399; text-decoration : none; }
+ .chboxinput { background-color : #FFFFFF; border : 1 solid #000000; color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }

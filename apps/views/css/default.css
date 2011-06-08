@@ -1,0 +1,299 @@
+/*--------------------------------------------*/
+/* Glucial Inc Copyright 2011
+   Created by Ritesh Angural	
+   Version 1.0 Alpha 
+/*--------------------------------------------*/
+
+
+
+/* CSS Classes for page 
+body - html body element
+.header - Wraps the logo & menu items
+.insideBody - Where all the good stuff happens, this class should contain all dynamic content on the site
+.footer - Wraps footer items
+.slideshow - This class holds the slideshow
+.sidebar - This is the container for items in the sidebar
+.bigbutton - Class defining all the big buttons on Glucial
+.mediumbutton - class defining all the medium buttons on Glucial
+.smallbutton - class defining all the small buttons on Glucial
+
+*/
+
+/* Start class body -------------------------------*/
+body {
+	width:auto;
+	margin:0px;
+	padding:0px;
+	background:#D6D6D6;
+	font-family: Arial, Helvetica, sans-serif;
+	height:690px;
+	list-style:none;
+	margin-right: 5px;
+	z-index:-2;
+}
+body ul, body ul li {
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+
+/* End class body -----------------------------------*/
+
+
+/* Start class .header ------------------------------*/
+.header {
+	height: 100px;
+	margin:0px;
+	display:block;
+	background-color:#1A3845;
+}
+.logo {
+	width:105px;
+	height:40px;
+	display:block;
+	float: left;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding-top:20px;
+	padding-left:35px;
+	font: normal 36px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:right;
+	color:#F9F7EA;
+}
+
+.menu {
+	width:480px;
+	height:20px;
+	display:block;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	float:right;
+	padding-top:40px;
+	padding-left:120px;
+}
+
+.menu a {
+	float:right;
+	display:block;
+	width:80px;
+	text-align:center;
+	font-style:nil;
+	color:#F2F2F2;
+}
+.menu a:hover {
+	color:#6CF;
+}
+
+
+/* End class .header --------------------------------*/
+
+
+
+/* Start class .insideBody -----------------------------*/
+.insideBody {
+	width:800px;
+	padding-top:40px;
+	padding-bottom:20px;
+	height:500px;
+	display:block;
+	position:relative;
+	margin-left: auto;
+	margin-right:auto;
+	/*z-index:-1;*/
+}
+
+
+
+/* End class .insideBody -------------------------------*/
+
+/* Start class footer -------------------------------*/
+.footer {
+	height: 50px;
+	margin:0px;
+	display:block;
+	text-align:center;
+}
+.footer p, .footer a{
+	font-size:x-small;
+}
+.footer a:hover {
+	color:#6CF;
+}
+
+/* end class footer -------------------------------*/
+
+
+/* Start id .slideshow --------------------------*/
+#slideshow{
+	background-color:#F2F2F2;
+	width:490px;
+	height:390px;
+	display:block;
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+/* End id .slideshow ----------------------------*/
+
+
+/* Start id .sidebar -----------------------------*/
+#sidebar {
+	background-color:#F2F2F2;
+	width:290px;
+	height:390px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+	float:left;
+	display:block;
+}
+/* End id .sidebar -------------------------------*/
+
+#getStartedWrapper{
+	width:750px;
+	height:400px;
+	padding:20px 20px 20px 20px;
+	background-color:#F2F2F2;
+	display:block;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+/* Start id .getstarted -----------------------------*/
+.getStarted {
+	background-color:#F2F2F2;
+	width:750px;
+	height:350px;
+	float:left;
+	display:block;
+}
+table.getStarted {
+	float:left;
+}
+table.getStarted td {
+}
+table.getStarted td:hover {
+	background-color:#9CF;
+	
+}
+/* End class .sidebar -------------------------------*/
+/* Start id .feedbar -----------------------------*/
+.feedbar {
+	background-color:#F2F2F2;
+	width:750px;
+	height:50px;
+	margin-top:5px;
+	margin-bottom:5px;
+	float:left;
+	display:block;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding:20px 20px 20px 20px;
+}
+/* End class .sidebar -------------------------------*/
+
+/* Start class .bigbutton ---------------------------*/
+.bigbutton {
+	width:260px;
+	height:110px;
+	margin:15px 15px 15px 15px;
+	display:block;
+	background-color:#9CF;
+	z-index:2;
+}
+
+.bigbutton:hover {
+	background-color:#069;
+	color: #069;
+}
+.bigbutton h1{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#F2F2F2;
+	font-size:larger;
+}
+
+.bigbutton p{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#F2F2F2;
+	font-size:medium;
+}
+.bigbutton_icon{
+	float:center;
+}
+
+/* End class .bigbutton -----------------------------*/
+
+
+/* Start class .mediumbutton -------------------------*/
+.mediumbutton {
+	position:relative;
+	width:150px;
+	height:70px;
+	margin:4px 4px 4px 4px;
+	display:block;
+	background-color:#9CF;
+	float: left;
+	/*z-index:2;*/
+}
+.mediumbutton:hover{
+	background-color:#069;
+}
+.mediumbutton h1{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#F2F2F2;
+	font-size:large;
+	text-align:center;
+}
+
+.mediumbutton p{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#F2F2F2;
+	font-size:small;
+	text-align:center;
+}
+.mediumbutton_icon{
+	float:center;
+}
+/* End class .mediumbutton ---------------------------*/
+
+/* Start class .smallbutton --------------------------*/
+.smallbutton {
+	width:100px;
+	height:40px;
+	margin:5px 5px 5px 5px;
+	display:block;
+	background-color:#9CF;
+	z-index:2;
+	float:left;
+}
+.smallbutton:hover{
+	background-color:#069;
+}
+.smallbutton h1{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#F2F2F2;
+	font-size:medium;
+	text-align:center;
+}
+
+.smallbutton p{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#F2F2F2;
+	font-size:smaller;
+	text-align:center;
+}
+.smallbutton_icon{
+	float:right;
+}
+/* End class .mediumbutton -----------------------------*/
+#NextButton{
+	float:right;
+	background-color:#069;
+
+}

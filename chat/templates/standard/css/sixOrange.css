@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .shbox_msg1 { background-color : #000000; border-bottom-color : #FF9933; border-bottom-style : solid; border-bottom-width : 1; color : #FFFFFF; font-size : xx-small; }
+ .shboxmaintab { background-color : #000000; color : #FFFFFF; font-size : 10px; }
+ .chboxbutton { background : #000000; border : 1 solid #FF9933; color : #FF9933; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .chboxinput { background : #000000; border : 1 solid #FF9933; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbody{ background-color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-arrow-color: #ff9933; scrollbar-base-color: #000000; scrollbar-dark-shadow-color: #ffffff; scrollbar-track-color: #000000; scrollbar-face-color: #000000; scrollbar-shadow-color: #ff9933; scrollbar-highlight-color: #ff9933; scrollbar-3d-light-color: #ff9933; }
+ .shbox_msg2 { background-color : #000000; border-bottom-color : #FF9933; border-bottom-style : solid; border-bottom-width : 1; color : #FFFFFF; font-size : xx-small; }
+ a:hover{ color : #FF9933; text-decoration : underline; }
+ a:visited{ color : #FFFFFF; text-decoration : none; }
+ sixOrange.css a:link{ color : #FFFFFF; text-decoration : none; }
+ a:active{ color : #FF9933; text-decoration : none; }

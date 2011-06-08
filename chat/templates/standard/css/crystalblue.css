@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .shbox_msg2 { background-color : #ADD6FE; border-bottom-color : #808080; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #808080; border-left-style : solid; border-left-width : 1px; border-right-color : #808080; border-right-style : solid; border-right-width : 1px; border-top-color : #808080; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ .shboxmaintab { background-color : #99CCFF; border-bottom-color : #336699; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #336699; border-left-style : solid; border-left-width : 1px; border-right-color : #336699; border-right-style : solid; border-right-width : 1px; border-top-color : #336699; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ .chboxbutton { background-color: #99CCFF; color: #336699; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight : bold; }
+ a:active{ color: #6699CC; text-decoration : none; }
+ a:visited{ text-decoration: none; color : #336699; }
+ .shbox_msg1 { background-color: #C0E0FF; border-bottom-color : #C0E0FF; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #C0E0FF; border-left-style : solid; border-left-width : 1px; border-right-color : #C0E0FF; border-right-style : solid; border-right-width : 1px; border-top-color : #C0E0FF; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ .chboxinput { background-color : #336699; border : 1 solid #99CCFF; color : #ADD6FE; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ a:hover{ color: #6699CC; text-decoration : underline; }
+ .chboxbody{ background-color: #99CCFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-3dlight-color: #6699CC; scrollbar-highlight-color: #99CCFF; scrollbar-face-color: #6699CC; scrollbar-arrow-color: #99CCFF; scrollbar-shadow-color: #336699; scrollbar-darkshadow-color: #000000; scrollbar-track-color: #6699CC; }
+  a:link{ text-decoration: none; color : #336699; }

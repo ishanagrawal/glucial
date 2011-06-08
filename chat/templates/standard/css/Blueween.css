@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:hover{ color : #FF9900; text-decoration : underline; }
+ a:visited{ color : #FF6600; text-decoration : none; }
+ .chboxbody{ background-color : #42518C; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-3dlight-color : #7A89C1; scrollbar-arrow-color : #FF9900; scrollbar-base-color : #2B3869; scrollbar-darkshadow-color : #000000; scrollbar-face-color : #2B3869; scrollbar-highlight-color : #2B3869; scrollbar-shadow-color : #2B3869; scrollbar-track-color : #2B3869; }
+ a:active{ color : #FFCC66; text-decoration : none; }
+ .shbox_msg1 { background-color : #42518C; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #596BB1; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #596BB1; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+  a:link{ color : #FF9900; text-decoration : none; }
+ .shboxmaintab { background-color : #42518C; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #596BB1; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #596BB1; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ .chboxinput { background : #000033; border : 1 solid #405088; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbutton { background : #405088; border : 1 solid #000000; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .shbox_msg2 { background-color : #3C4B81; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #596BB1; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #596BB1; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }

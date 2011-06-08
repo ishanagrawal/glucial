@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .chboxbody{ background-color: #F3F3F3; scrollbar-face-color: #C8E4D8; scrollbar-highlight-color: #33CC99; scrollbar-shadow-color: #33CC99; scrollbar-3dlight-color: #E8F8F8; scrollbar-arrow-color: #F3F3F3; scrollbar-track-color: #F3F3F3; scrollbar-darkshadow-color: #009966; }
+ .shboxmaintab { background-color : #EFEFEF; border-bottom-color : #33CC99; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #33CC99; border-left-style : solid; border-left-width : 1px; border-right-color : #33CC99; border-right-style : solid; border-right-width : 1px; border-top-color : #33CC99; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ a:hover{ color : #1B6950; text-decoration : underline; }
+ a:visited{ color : #1B6950; text-decoration : none; }
+ .shbox_msg2 { background-color : #C8E4D8; border-bottom-color : #33CC99; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #33CC99; border-left-style : solid; border-left-width : 1px; border-right-color : #33CC99; border-right-style : solid; border-right-width : 1px; border-top-color : #33CC99; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ .shbox_msg1 { background-color : #F3F3F3; border-bottom-color : #F3F3F3; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #F3F3F3; border-left-style : solid; border-left-width : 1px; border-right-color : #F3F3F3; border-right-style : solid; border-right-width : 1px; border-top-color : #F3F3F3; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+  a:link{ color : #1B6950; text-decoration : none; }
+ .chboxbutton { background : #C8E4D8; border : 1 solid #000000; color : #1B6950; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .chboxinput { background : #C8E4D8; border : 1 solid #33CC99; color : #000009; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ a:active{ color : #1B6950; text-decoration : none; }

@@ -1,0 +1,13 @@
+#!"%SproutCorePath%/ruby/bin/ruby.exe" -I "%SproutCorePath%/local/sproutcore/bundle" -r bundler/setup
+# ===========================================================================
+# Project:   Abbot - SproutCore Build Tools
+# Copyright: ©2010 Apple Inc.
+#            portions copyright @2006-2011 Strobe Inc.
+#            and contributors
+# ===========================================================================
+
+require "sproutcore"
+
+SC::Tools.invoke 'init'
+
+# EOF

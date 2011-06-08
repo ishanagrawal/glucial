@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:visited{ color : #A82418; text-decoration : none; }
+ .shbox_msg2 { background-color : #EFEFEF; border-bottom-color : #A82418; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #F8F4F0; border-left-style : solid; border-left-width : 1px; border-right-color : #F8F4F0; border-right-style : solid; border-right-width : 1px; border-top-color : #A82418; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ .chboxinput { background : #F8F4F0; border : 1 solid #A82418; color : #000009; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbody{ background-color: #E5E5E5; scrollbar-face-color: #A82418; scrollbar-highlight-color: #FFFFFF; scrollbar-shadow-color: #F8F4F0; scrollbar-3dlight-color: #D1D7DC; scrollbar-arrow-color: #A82418; scrollbar-track-color: #EFEFEF; scrollbar-darkshadow-color: #A82418; }
+ .shboxmaintab { background-color : #EFEFEF; border-bottom-color : #A82418; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #A82418; border-left-style : solid; border-left-width : 1px; border-right-color : #A82418; border-right-style : solid; border-right-width : 1px; border-top-color : #A82418; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ .shbox_msg1 { background-color : #F8F4F0; border-bottom-color : #F8F4F0; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #F8F4F0; border-left-style : solid; border-left-width : 1px; border-right-color : #F8F4F0; border-right-style : solid; border-right-width : 1px; border-top-color : #F8F4F0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+  a:link{ color : #A82418; text-decoration : none; }
+ a:active{ color : #A82418; text-decoration : none; }
+ a:hover{ color : #A82418; text-decoration : underline; }
+ .chboxbutton { background : #A82418; border : 1 solid #000000; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }

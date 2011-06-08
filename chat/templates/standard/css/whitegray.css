@@ -1,0 +1,10 @@
+/* tpl:standard->AjaxChat.org */
+  a:link{ color : #000000; text-decoration : underline; }
+ .chboxbutton { border : 1 solid #000000; background : #555555; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ a:hover{ color : #000000; text-decoration : underline; }
+ .chboxbody{ background-color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; }
+ .shbox_msg2 { border-bottom : 1px solid #000000; color : #000000; background-color : #FFFFFF; font-size : xx-small; }
+ .chboxinput { background : #CCCCCC; border : 1 solid #000000; color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .shbox_msg1 { border-bottom : 1px solid #000000; color : #000000; background-color : #CCCCCC; font-size : xx-small; }
+ a:active{ color : #000000; text-decoration : none; }
+ a:visited{ color : #000000; text-decoration : none; }

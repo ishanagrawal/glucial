@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:active{ color : #607088; text-decoration : none; }
+ a:visited{ color : #607088; text-decoration : none; }
+ a:hover{ color : #607088; text-decoration : underline; }
+ .chboxinput { background : #FFFFFF; border : 1px solid; color : #405870; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .shbox_msg2 { background-color : #E7ECF8; border-bottom-color : #38477C; border-bottom-style : solid; border-left-color : #596BB1; border-left-style : solid; border-right-color : #38477C; border-right-style : solid; border-top-color : #596BB1; border-top-style : solid; color : #607088; font-size : xx-small; }
+ .shboxmaintab { background-color : #FFFFFF; border-bottom-color : #38477C; border-bottom-style : solid; border-left-color : #596BB1; border-left-style : solid; border-right-color : #38477C; border-right-style : solid; border-top-color : #596BB1; border-top-style : solid; color : #607088; font-size : 10px; }
+ .chboxbutton { background : #FFFFFF; border : 1px solid; color : #405870; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; border-color: #88A0D8 #88A8D8 #88A8D8; }
+  a:link{ color : #607088; text-decoration : none; }
+ .chboxbody { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #607088; background-color: #FFFFFF; }
+ .shbox_msg1 { background-color : #FFFFFF; border-bottom-color : #38477C; border-bottom-style : solid; border-left-color : #596BB1; border-left-style : solid; border-right-color : #38477C; border-right-style : solid; border-top-color : #596BB1; border-top-style : solid; color : #607088; font-size : xx-small; }

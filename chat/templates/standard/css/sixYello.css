@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:visited{ color : #FFFFFF; text-decoration : none; }
+ .shbox_msg1 { background-color : #000000; border-bottom-color : #FFFF00; border-bottom-style : solid; border-bottom-width : 1; color : #FFFFFF; font-size : xx-small; }
+ .shbox_msg2 { background-color : #000000; border-bottom-color : #FFFF00; border-bottom-style : solid; border-bottom-width : 1; color : #FFFFFF; font-size : xx-small; }
+ sixYellow.css a:link{ color : #FFFFFF; text-decoration : none; }
+ a:active{ color : #FFFF00; text-decoration : none; }
+ .chboxbody{ background-color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-arrow-color: #FFFF00; scrollbar-base-color: #000000; scrollbar-dark-shadow-color: #ffffff; scrollbar-track-color: #000000; scrollbar-face-color: #000000; scrollbar-shadow-color: #FFFF00; scrollbar-highlight-color: #FFFF00; scrollbar-3d-light-color: #FFFF00; }
+ .chboxinput { background : #000000; border : 1 solid #FFFF00; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbutton { background : #000000; border : 1 solid #FFFF00; color : #FFFF00; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .shboxmaintab { background-color : #000000; color : #FFFFFF; font-size : 10px; }
+ a:hover{ color : #FFFF00; text-decoration : underline; }

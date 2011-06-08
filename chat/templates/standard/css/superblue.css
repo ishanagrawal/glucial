@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:hover{ color : white; text-decoration :underline; }
+ .shbox_msg2 { border-bottom : 0px solid Black; color : Black; background-color : #3535FF; font-size : xx-small; margin-bottom : 2px; border-right-color : black; border-right-style : solid; border-right-width : 0px; border-top-color : black; border-top-style : solid; border-top-width : 0px; border-left-color : black; border-left-style : solid; border-left-width : 0px; }
+ a:visited{ color : white; text-decoration : underline; }
+ .shboxmaintab { font-size : 10px; }
+ .chboxinput { background : #3535FF; border : 1px solid #000000; color : white; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbutton { border : 1 solid #000000; color : white; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; background-color : #0000FF; }
+ plumbum.css a:link{ color : white; text-decoration : underline; }
+ .shbox_msg1 { color : Black; background-color : #0000FF; font-size : xx-small; margin-bottom : 2px; border-bottom-color : black; border-bottom-style : solid; border-bottom-width : 0px; border-right-color : black; border-right-style : solid; border-right-width : 0px; border-left-color : black; border-left-style : solid; border-left-width : 0px; }
+ .chboxbody{ background-color : #3535FF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-base-color : #0000FF; scrollbar-arrow-color : Black; }
+ a:active{ color : white; text-decoration : none; }

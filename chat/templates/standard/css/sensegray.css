@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .shbox_msg1 { background-color : #FBFBFB; border-bottom-color : #DDDDDD; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #DDDDDD; border-left-style : solid; border-left-width : 1px; border-right-color : #DDDDDD; border-right-style : solid; border-right-width : 1px; border-top-color : #DDDDDD; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ a:hover{ color : #FF0000; text-decoration : underline; }
+ .shboxmaintab { background-color : #FBFBFB; border-bottom-color : #FFFFFF; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #FFFFFF; border-left-style : solid; border-left-width : 1px; border-right-color : #FFFFFF; border-right-style : solid; border-right-width : 1px; border-top-color : #FFFFFF; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ .chboxbutton { background : #DDDDDD; border : 1 solid #C0C0C0; color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+  a:link{ color : #000080; text-decoration : none; }
+ a:active{ color : #FF0000; text-decoration : underline; }
+ .chboxbody{ background-color : #FBFBFB; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-3dlight-color : #FFFFFF; scrollbar-arrow-color : #000080; scrollbar-base-color : #C0C0C0; scrollbar-darkshadow-color : #000000; scrollbar-face-color : #C0C0C0; scrollbar-highlight-color : #FFFFFF; scrollbar-shadow-color : #C0C0C0; scrollbar-track-color : #DDDDDD; }
+ .chboxinput { background : #FFFFFF; border : 1 solid #DDDDDD; color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .shbox_msg2 { background-color : #FFFFFF; border-bottom-color : #FFFFFF; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #DDDDDD; border-left-style : solid; border-left-width : 1px; border-right-color : #DDDDDD; border-right-style : solid; border-right-width : 1px; border-top-color : #FFFFFF; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ a:visited{ color : #000080; text-decoration : none; }

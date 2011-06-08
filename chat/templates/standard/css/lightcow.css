@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .chboxbody{ scrollbar-face-color: #FFFFFF; scrollbar-shadow-color: #9999CC; scrollbar-highlight-color: #9999CC; scrollbar-3dlight-color: #FFFFFF; scrollbar-darkshadow-color: #FFFFFF; scrollbar-track-color: #FFFFFF; scrollbar-arrow-color: #9999CC; background-color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; }
+ a:visited{ color : #6600CC; text-decoration : none; }
+ a:hover{ color : #6600CC; text-decoration : underline; }
+  a:link{ color : #6600CC; text-decoration : underline; }
+ .chboxinput { background : #9f9fcf; border : 1 solid #000000; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+ .chboxbutton { border : 1 solid #000000; background : #9f9fcf; color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .SB_alert { color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; font-weight : bold; .shboxmaintab { font-size : 10px; }
+ .shbox_msg1 { border-bottom : 1px solid #6666FF; color : #000000; background-color : #9f9fcf; font-size : xx-small; }
+ a:active{ color : #6600CC; text-decoration : none; }
+ .shbox_msg2 { border-bottom : 1px solid #6666FF; color : #000000; background-color : #CCCCFF; font-size : xx-small; }

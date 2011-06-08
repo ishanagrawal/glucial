@@ -1,0 +1,26 @@
+# ==========================================================================
+# Generator: Language
+# Copyright: ©2006-2011 Strobe Inc. and contributors
+#            portions copyright ©2009 Apple Inc.
+# ==========================================================================
+
+namespace :generator do
+
+  # First argument must be the namespace.  Second argument should be the 
+  # language we want to add.  Generate a filename (foo.lproj) and language
+  # name.
+  task :prepare do
+    long_languages = %w(english french german italian spanish japanese)
+    if language = GENERATOR.arguments[2]
+      if long_languages.include?(language.downcase)
+        GENERATOR.language = language.downcase.capitalize
+        GENERATOR.filename = language.downcase + '.lproj'
+      else
+        GENERATOR.language = language.gsub('_', '-') 
+        GENERATOR.filename = language.gsub('-', '_') + '.lproj'
+      end
+    end
+    GENERATOR.requires! :target_project, :target, :language, :filename
+  end
+  
+end

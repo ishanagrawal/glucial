@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ a:hover{ color : yellow; text-decoration : underline; }
+ .chboxinput { background : #000000; border : 1 solid yellow; color : yellow; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; }
+  a:link{ color : yellow; text-decoration : underline; }
+ .chboxbutton { background : #000000; border : 1 solid yellow; color : yellow; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; }
+ .shboxmaintab { background-color : #000000; border-bottom-color : #000000; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #000000; border-left-style : solid; border-left-width : 1px; border-right-color : #000000; border-right-style : solid; border-right-width : 1px; border-top-color : #000000; border-top-style : solid; border-top-width : 1px; color : yellow; font-size : 10px; }
+ a:visited{ color : yellow; text-decoration : underline; }
+ .chboxbody{ background-color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-base-color : #000000; scrollbar-arrow-color: yellow; }
+ .shbox_msg1 { background-color : #000000; border-bottom-color : #000000; border-bottom-style : solid; border-bottom-width : 0; border-left-color : #000000; border-left-style : solid; border-left-width : 0px; border-right-color : #000000; border-right-style : solid; border-right-width : 0px; border-top-color : #000000; border-top-style : solid; border-top-width : 0px; color : yellow; font-size : xx-small; }
+ a:active{ color : yellow; text-decoration : underline; }
+ .shbox_msg2 { background-color : #000000; border-bottom-color : gray; border-bottom-style : solid; border-bottom-width : 0; border-left-color : gray; border-left-style : solid; border-left-width : 0px; border-right-color : gray; border-right-style : solid; border-right-width : 0px; border-top-color : gray; border-top-style : solid; border-top-width : 0px; color : yellow; font-size : xx-small; }

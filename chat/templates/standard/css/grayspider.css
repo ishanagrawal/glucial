@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .chboxbody{ background-color: #808080; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-face-color: #000000; scrollbar-highlight-color: #000000; scrollbar-shadow-color: #808080; scrollbar-3dlight-color: #c0c0c0; scrollbar-arrow-color: #ff9900; scrollbar-track-color: #808080; scrollbar-darkshadow-color: #000000; }
+ .shboxmaintab { background-color : #292929; border-bottom-color : #292929; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #292929; border-left-style : solid; border-left-width : 1px; border-right-color : #292929; border-right-style : solid; border-right-width : 1px; border-top-color : #292929; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ a:hover{ color: #DF4D4D; text-decoration : underline; }
+ a:visited{ text-decoration: none; color: #BBBBBB; }
+ .shbox_msg2 { background-color : #0F0F0F; border-bottom-color : #808080; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #292929; border-left-style : solid; border-left-width : 1px; border-right-color : #292929; border-right-style : solid; border-right-width : 1px; border-top-color : #808080; border-top-style : solid; border-top-width : 1px; color : #000000; font-size : xx-small; }
+ .chboxinput { color : DEDEDE; background-color: #454545; font-family : Verdana, Helvetica, Helvetica, sans-serif; font-size : 10px; border: 1px #636363 solid; border-top-width : 1px; border-right-width : 1px; border-bottom-width : 1px; border-left-width : 1px; }
+ .shbox_msg1 { background-color: #292929; border-bottom-color : #292929; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #292929; border-left-style : solid; border-left-width : 1px; border-right-color : #292929; border-right-style : solid; border-right-width : 1px; border-top-color : #292929; border-top-style : solid; border-top-width : 1px; color : #000000; font-size : xx-small; }
+ .chboxbutton { background-color : #454545; color : DEDEDE; font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight : bold; }
+  a:link{ text-decoration: none; color: #BBBBBB; }
+ a:active{ color: #DF4D4D; text-decoration : none; }

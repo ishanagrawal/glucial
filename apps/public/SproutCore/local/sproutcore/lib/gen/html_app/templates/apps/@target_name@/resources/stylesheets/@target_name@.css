@@ -1,0 +1,6 @@
+<%= copyright_block(namespace, :css) %>
+
+.sc-view {
+  position: relative;
+  overflow: visible;
+}

@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .shbox_msg1 { background-color : #587498; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #7894B0; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #7894B0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ a:hover{ color : #D7AC00; text-decoration : underline; }
+ a:link{ color : #FFCC00; text-decoration : none; }
+ .chboxbutton { background: #587498; border : 1 solid #517196; color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; border-color: #000000; border-colordark: #517196; border-colorlight: #CCCCCC; }
+ .shboxmaintab { background-color : #587498; border-bottom-color : #506889; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #506889; border-left-style : solid; border-left-width : 1px; border-right-color : #506889; border-right-style : solid; border-right-width : 1px; border-top-color : #7894B0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ a:active{ color : #D7AC00; text-decoration : none; }
+ .chboxinput { color : #FFFFFF; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; background: #506889; border-color: #517196; border-colordark: #517196; border-colorlight: #CCCCCC; }
+ .shbox_msg2 { background-color : #506889; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #7894B0; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #7894B0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ a:visited{ color : #FFCC00; text-decoration : none; }
+ .chboxbody{ background-color : #587498; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-3dlight-color : #7894B0; scrollbar-arrow-color : #FFCC00; scrollbar-base-color : #506889; scrollbar-darkshadow-color : #000000; scrollbar-face-color : #587498; scrollbar-highlight-color : #587498; scrollbar-shadow-color : #587498; scrollbar-track-color : #587498; }

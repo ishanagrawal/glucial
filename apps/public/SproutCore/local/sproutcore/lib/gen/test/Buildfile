@@ -1,0 +1,25 @@
+# ==========================================================================
+# Generator: Model
+# Copyright: ©2006-2011 Strobe Inc. and contributors
+#            portions copyright ©2009 Apple Inc.
+# ==========================================================================
+
+namespace :generator do
+
+  # - Verify required properties are present. 
+  # - If class_name & method_name is passed, add it to the filename.
+  # - If second param is passed, use it as the filename
+  task :prepare do
+    GENERATOR.requires! :target_project, :target, :namespace
+    
+    class_name = GENERATOR.class_name
+    method_name = GENERATOR.method_name
+    if class_name && method_name
+      GENERATOR.filename = GENERATOR.snake_case(class_name) / GENERATOR.snake_case(method_name)
+    end
+    
+    arguments = GENERATOR.arguments
+    GENERATOR.filename = arguments[2] if arguments[2]
+  end
+  
+end

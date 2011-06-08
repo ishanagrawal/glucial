@@ -1,0 +1,13 @@
+view - Create a new view class in your SproutCore app.
+
+USAGE:
+
+  sc-gen view AppName.NewView [--filename=FILENAME] [--target=TARGET_NAME]
+
+DISCUSSION:
+
+This generator will create a new SproutCore view in your app.  You should pass as the first parameter your AppName.NewView combination you want to create.  For example:
+
+sc-gen view Todos.TaskView
+
+defines a new class called Todos.TaskView in the file apps/todos/views/task.js .

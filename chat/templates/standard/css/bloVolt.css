@@ -1,0 +1,11 @@
+/* tpl:standard->AjaxChat.org */
+ .chboxinput { color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 10px; background: #ffffff; border-color: #517196; border-colordark: #517196; border-colorlight: #CCCCCC; }
+ .shbox_msg1 { background-color : #505C98; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #7894B0; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #7894B0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ .shboxmaintab { background-color : #505C98; border-bottom-color : #485C88; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #485C88; border-left-style : solid; border-left-width : 1px; border-right-color : #485C88; border-right-style : solid; border-right-width : 1px; border-top-color : #7894B0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : 10px; }
+ .chboxbutton { background: #ffffff; border : 1 solid #000000; color : #000000; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : 9px; font-weight : bold; border-color: #517196; border-colordark: #517196; border-colorlight: #CCCCCC; }
+ .chboxbody{ background-color : #505C98; font-family : Verdana, Arial, Helvetica, sans-serif; font-size : xx-small; scrollbar-3dlight-color : #7894B0; scrollbar-arrow-color : #FFCC00; scrollbar-base-color : #485C88; scrollbar-darkshadow-color : #000000; scrollbar-face-color : #505C98; scrollbar-highlight-color : #505C98; scrollbar-shadow-color : #505C98; scrollbar-track-color : #485C88; }
+ .shbox_msg2 { background-color : #485C88; border-bottom-color : #38477C; border-bottom-style : solid; border-bottom-width : 1; border-left-color : #7894B0; border-left-style : solid; border-left-width : 1px; border-right-color : #38477C; border-right-style : solid; border-right-width : 1px; border-top-color : #7894B0; border-top-style : solid; border-top-width : 1px; color : #FFFFFF; font-size : xx-small; }
+ a:hover{ color : #D7AC00; text-decoration : underline; }
+ a:active{ color : #D7AC00; text-decoration : none; }
+ a:visited{ color : #FFCC00; text-decoration : none; }
+ a:link{ color : #FFCC00; text-decoration : none; }
